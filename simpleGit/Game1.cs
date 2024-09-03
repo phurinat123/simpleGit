@@ -10,6 +10,7 @@ namespace simpleGit
         private SpriteBatch _spriteBatch;
 
         Texture2D texture;
+        Texture2D texture2;
 
         public Game1()
         {
