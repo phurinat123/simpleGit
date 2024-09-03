@@ -11,6 +11,7 @@ namespace simpleGit
 
         Texture2D texture;
         Texture2D texture2;
+        Texture2D texture3;
 
         public Game1()
         {
